@@ -7,4 +7,4 @@ LeetCode Profile: https://leetcode.com/u/prabhatbhatia/
 | No. | Problem     | Python | C++ |
 | --- | --------    | ------ | ----|
 | 1.  | Two Sum     | Yes    | Yes |
-| 2.  | Move Zeroes | Yes    | No  |
+| 2.  | Move Zeroes | Yes    | Yes |
